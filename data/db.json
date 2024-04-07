@@ -1,0 +1,22 @@
+{
+  "blogs": [
+    {
+      "id": "7c46",
+      "title": "pixel 7",
+      "body": "its an awesome  android smart phone!",
+      "author": "Agnes"
+    },
+    {
+      "id": "5a78",
+      "title": "pixel 7",
+      "body": "its an awesome android phone",
+      "author": "Agnes"
+    },
+    {
+      "id": "ad03",
+      "title": "pixel 7",
+      "body": "its an awesome smart phone!",
+      "author": "Jeff"
+    }
+  ]
+}
